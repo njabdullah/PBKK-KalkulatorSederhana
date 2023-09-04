@@ -1,0 +1,10 @@
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\bin\Debug\KalkulatorPBKK.exe.config
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\bin\Debug\KalkulatorPBKK.exe
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\bin\Debug\KalkulatorPBKK.pdb
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\obj\Debug\KalkulatorPBKK.csproj.AssemblyReference.cache
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\obj\Debug\KalkulatorPBKK.Form1.resources
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\obj\Debug\KalkulatorPBKK.Properties.Resources.resources
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\obj\Debug\KalkulatorPBKK.csproj.GenerateResource.cache
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\obj\Debug\KalkulatorPBKK.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\obj\Debug\KalkulatorPBKK.exe
+C:\Users\Abdullah NJ\source\repos\KalkulatorPBKK\KalkulatorPBKK\obj\Debug\KalkulatorPBKK.pdb
